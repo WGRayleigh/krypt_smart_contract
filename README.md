@@ -1,2 +1,2 @@
 # krypt_smart_contract
-using React and Ethereum to create a online cryptocurrencies trading platform
+Using React.js, Tailwind CSS and Ethereum APIs to create a online cryptocurrencies trading platform
